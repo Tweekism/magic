@@ -1,3 +1,3 @@
 # Magic
 
-This repo is magic!
+This repo is not magic!
